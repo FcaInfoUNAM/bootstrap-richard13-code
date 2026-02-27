@@ -1,0 +1,13 @@
+Explica en entregable.txt qué es lo que hace bg-dark
+	Es el color del fondo de la barra de navegación
+
+¿Qué es lo que permite que en el formulario la contraseña esté oculta?:
+	El tipo de input, password hace que se oculten
+
+¿Dónde deberías agregar CSS en el documento si modificas el estilo de alguna clase?
+	En un CSS aparte vinculado a la etiqueta que se quiere modificar
+
+¿Bootstrap incorpora algún mecanismo para realizar los cambios del paso 4? Si
+
+¿Cómo cambiarias el fondo por un video?:
+	Usar la etiqueta video en el estilo del body
